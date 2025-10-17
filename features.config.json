@@ -1,0 +1,9 @@
+{
+  "enable_detection": true,
+  "enable_translations": true,
+  "enable_infocards": true,
+  "detection_style": "glow",
+  "enable_face_detection": true,
+  "face_style": "box",
+  "face_min_conf": 0.6
+}
