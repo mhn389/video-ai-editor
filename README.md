@@ -8,6 +8,10 @@
 - **Stacked subtitles** + **smart info cards**
 - **ffmpeg** muxing to preserve audio
 
+## Demo Video
+sha256:f28ac4662ed375e1db1decd9995ca479f484e66d62ddc3857a9cfd929c6e44cb
+
+
 ## Setup
 
 ```bash
