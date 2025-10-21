@@ -9,7 +9,7 @@
 - **ffmpeg** muxing to preserve audio
 
 ## Demo Video
-sha256:f28ac4662ed375e1db1decd9995ca479f484e66d62ddc3857a9cfd929c6e44cb
+https://github.com/mhn389/video-ai-editor/releases/tag/v0.1.0
 
 
 ## Setup
